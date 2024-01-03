@@ -9,14 +9,38 @@
 
 
 **About Me! / Sobre mim!**
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Carismático, extrovertido dedicado, comunicativo e sede de aprender coisas novas são
+algumas das minhas principais características. Apaixonado por tecnologia, adoro jogos
+online , pratico musculação e violão as horas vagas.
+Almejo ingressar no mercado de trabalho através oportunidades profissionais em
+áreas relacionadas ao desenvolvimento web e/ou mobile na parte do back - end e quem
+sabe futuramente fullstack.
+
+Minhas Competências :
+
+Experiência com plataformas de
+desenvolvimento para web (ASP.Net) e
+desktop (Win Forms) mais voltado ao
+back- end
+
+Conhecimento de bancos de dados
+relacionais como SQL Oracle,
+SQL Server, MySQL, PostgreSQL
+
+Experiência básica com sistemas de
+gerenciamento de versão
+
+Experiência básica com ORM - Entity
+Framework
+
+Experiências básica de front - end
+
+Habilidade de analise de processos e
+regra de negocio para criação e
+manutenção de sistemas.
+
+Experiência básica de scraping de dados
+com BS4 e ReGex
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h3 align="center">STATISTICS / ESTATÍSTICAS</h3>
