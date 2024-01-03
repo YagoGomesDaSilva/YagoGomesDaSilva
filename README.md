@@ -9,6 +9,7 @@
 
 
 **About Me! / Sobre mim!**
+
 Carismático, extrovertido dedicado, comunicativo e sede de aprender coisas novas são
 algumas das minhas principais características. Apaixonado por tecnologia, adoro jogos
 online , pratico musculação e violão as horas vagas.
