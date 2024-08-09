@@ -7,12 +7,10 @@
 
 ## About Me! / Sobre mim!
 
-Carismático, extrovertido dedicado, comunicativo e sede de aprender coisas novas são
-algumas das minhas principais características. Apaixonado por tecnologia, adoro jogos
-online , pratico musculação e violão as horas vagas.
-Almejo ingressar no mercado de trabalho através oportunidades profissionais em
-áreas relacionadas ao desenvolvimento web e/ou mobile na parte do back - end e quem
-sabe futuramente fullstack.
+Com 2 anos de experiência como estagiário, estou construindo uma carreira como desenvolvedor no
+mercado em áreas relacionadas ao desenvolvimento web com foco em backend e futuramente realizar
+trabalhos como fullstack e arquiteto de software. Proativo, responsável e com excelente comunicação.
+
 
 Minhas Competências :
 
