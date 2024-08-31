@@ -7,23 +7,18 @@
 
 ## About Me! / Sobre mim!
 
-Com 2 anos de experiência como estagiário, estou construindo uma carreira como desenvolvedor no
-mercado em áreas relacionadas ao desenvolvimento web com foco em backend e futuramente realizar
-trabalhos como fullstack e arquiteto de software. Proativo, responsável e com excelente comunicação.
-
+Com mais de 2 anos de experiência como programador com foco nas tecnologias .Net e Java Spring, estou construindo uma carreira como desenvolvedor no mercado em áreas relacionadas ao desenvolvimento web com foco em back-end e futuramente realizar trabalhos como fullstack e arquiteto de software. Proativo, responsável e com excelente comunicação.
 
 Minhas Competências :
 
-Experiência de trabalho com projetos, desenvolvimento backend:
-- Experiência de trabalho refatorando, desenvolvendo e acoplando novas funcionalidades, em sistemas utilizados por usuários do ramo de comércio;
-- Experiência de trabalho desenvolvendo sistemas desktop utilizando tecnologia Windows Forms .NET;
-- Experiência de trabalho melhorando o fluxo de negocio de atividades comerciais e gestão utilizando C# .NET;
-- Experiência de trabalho realizando raspagem de dados utilizando BS4 e ReGex;
-- Experiência de trabalho migrando sistemas legados para novas tecnologias ;
-- Experiência na criação de APIs REST (ASP.Net Core, Java Spring);
-- Experiência de trabalho com Bancos de Dados SQL (PostgreSQL, SQL Server, MySQL, PL/SQL Oracle);
-- Experiência de trabalho em desenvolvimento Serviços Windows;
-- Experiência de trabalho construindo sistemas para a empresas Iskisita Atacado 
+Experiência na criação de APIs REST (ASP.Net Core, Java, Spring , Spring Boot);
+Experiência com Bancos de Dados SQL (PostgreSQL, SQL Server, MySQL, PL/SQL Oracle);
+Prática com Arquitetura MVC, Arquitetura Hexagonal e Arquitetura Limpa;
+Desenvolvimento sistemas desktop utilizando tecnologia Windows Forms .NET;
+Melhora no fluxo de negocio de atividades comerciais e gestão utilizando C# .NET;
+Realização raspagem de dados utilizando BS4 e ReGex;
+Experiência de trabalho em Serviços Windows;
+Experiência  construindo sistemas para a empresas Iskisita Atacado; 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h3 align="center">STATISTICS / ESTATÍSTICAS</h3>
