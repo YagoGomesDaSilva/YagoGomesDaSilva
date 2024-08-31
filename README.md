@@ -11,14 +11,14 @@ Com mais de 2 anos de experiência como programador com foco nas tecnologias .Ne
 
 Minhas Competências :
 
--Experiência na criação de APIs REST (ASP.Net Core, Java, Spring , Spring Boot);
--Experiência com Bancos de Dados SQL (PostgreSQL, SQL Server, MySQL, PL/SQL Oracle);
--Prática com Arquitetura MVC, Arquitetura Hexagonal e Arquitetura Limpa;
--Desenvolvimento sistemas desktop utilizando tecnologia Windows Forms .NET;
--Melhora no fluxo de negocio de atividades comerciais e gestão utilizando C# .NET;
--Realização raspagem de dados utilizando BS4 e ReGex;
--Experiência de trabalho em Serviços Windows;
--Experiência construindo sistemas para a empresas Iskisita Atacado; 
+-Experiência na criação de APIs REST (ASP.Net Core, Java, Spring , Spring Boot);  
+-Experiência com Bancos de Dados SQL (PostgreSQL, SQL Server, MySQL, PL/SQL Oracle);  
+-Prática com Arquitetura MVC, Arquitetura Hexagonal e Arquitetura Limpa;  
+-Desenvolvimento sistemas desktop utilizando tecnologia Windows Forms .NET;  
+-Melhora no fluxo de negocio de atividades comerciais e gestão utilizando C# .NET;  
+-Realização raspagem de dados utilizando BS4 e ReGex;  
+-Experiência de trabalho em Serviços Windows;  
+-Experiência construindo sistemas para a empresas Iskisita Atacado;   
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h3 align="center">STATISTICS / ESTATÍSTICAS</h3>
