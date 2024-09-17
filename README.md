@@ -11,7 +11,7 @@ Com mais de 2 anos de experiência como programador com foco nas tecnologias .Ne
 
 Minhas Competências :
 
--Experiência na criação de APIs REST (ASP.Net Core, Java, Spring , Spring Boot);  
+-Experiência na criação de APIs REST (ASP.Net Core, Java Spring Boot, Python Django|Flask);  
 -Experiência com Bancos de Dados SQL (PostgreSQL, SQL Server, MySQL, PL/SQL Oracle);  
 -Prática com Arquitetura MVC, Arquitetura Hexagonal e Arquitetura Limpa;  
 -Desenvolvimento sistemas desktop utilizando tecnologia Windows Forms .NET;  
