@@ -7,7 +7,7 @@
 
 ## About Me! / Sobre mim!
 
-Com mais de 2 anos de experiência como programador com foco nas tecnologias .Net e Java Spring, estou construindo uma carreira como desenvolvedor no mercado em áreas relacionadas ao desenvolvimento web com foco em back-end e futuramente realizar trabalhos como fullstack e arquiteto de software. Proativo, responsável e com excelente comunicação.
+Com mais de 3 anos de experiência como programador com foco nas tecnologias .Net e Java Spring, estou construindo uma carreira como desenvolvedor no mercado em áreas relacionadas ao desenvolvimento web com foco em back-end e futuramente realizar trabalhos como fullstack e arquiteto de software. Proativo, responsável e com excelente comunicação.
 
 Minhas Competências :
 
