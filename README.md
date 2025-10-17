@@ -7,22 +7,22 @@
 
 ## About Me! / Sobre mim!
 
-RESUMO PROFISSIONAL
+### RESUMO PROFISSIONAL;
 Desenvolvedor Back-End com 3 anos de experiência em .NET (C#, VB) ,ASP.NET Core e Java Spring Boot. Experiência em automação, integração de sistemas, migração de aplicações legadas. Experiência com Docker, Linux, versionamento e testes automatizados. Foco em qualidade de código e performance.
 
-HABILIDADES TÉCNICAS
-Desenvolvimento Web (ASP.NET Core, Java Spring Boot)
-Desenvolvimento de sistemas desktop com Windows Forms (.NET)
-Desenvolvimento web legado com Web Forms (VB.Net e .Net Framework)
-Bancos de Dados SQL (PostgreSQL, SQL Server, MySQL, PL/SQL Oracle)
-Prática com Docker
-Migração de sistemas legados
-Uso de ambientes Linux
+### HABILIDADES TÉCNICAS;
+Desenvolvimento Web (ASP.NET Core, Java Spring Boot);
+Desenvolvimento de sistemas desktop com Windows Forms (.NET);
+Desenvolvimento web legado com Web Forms (VB.Net e .Net Framework);
+Bancos de Dados SQL (PostgreSQL, SQL Server, MySQL, PL/SQL Oracle);
+Prática com Docker;
+Migração de sistemas legados;
+Uso de ambientes Linux;
 
-IDIOMAS
-Inglês: Intermediário (B1)
+### IDIOMAS
+Inglês: Intermediário (B1);
 
-E-mail:yago.gomes.silva.ygs@gmail.com
+E-mail:yago.gomes.silva.ygs@gmail.com;
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
