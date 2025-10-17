@@ -7,19 +7,23 @@
 
 ## About Me! / Sobre mim!
 
-Com mais de 3 anos de experiência como programador com foco nas tecnologias .Net e Java Spring, estou construindo uma carreira como desenvolvedor no mercado em áreas relacionadas ao desenvolvimento web com foco em back-end e futuramente realizar trabalhos como fullstack e arquiteto de software. Proativo, responsável e com excelente comunicação.
+RESUMO PROFISSIONAL
+Desenvolvedor Back-End com 3 anos de experiência em .NET (C#, VB) ,ASP.NET Core e Java Spring Boot. Experiência em automação, integração de sistemas, migração de aplicações legadas. Experiência com Docker, Linux, versionamento e testes automatizados. Foco em qualidade de código e performance.
 
-Minhas Competências :
+HABILIDADES TÉCNICAS
+Desenvolvimento Web (ASP.NET Core, Java Spring Boot)
+Desenvolvimento de sistemas desktop com Windows Forms (.NET)
+Desenvolvimento web legado com Web Forms (VB.Net e .Net Framework)
+Bancos de Dados SQL (PostgreSQL, SQL Server, MySQL, PL/SQL Oracle)
+Prática com Docker
+Migração de sistemas legados
+Uso de ambientes Linux
 
--Experiência na criação de APIs REST (ASP.Net Core, Java Spring Boot, Python Django|Flask);  
--Experiência com Bancos de Dados SQL (PostgreSQL, SQL Server, MySQL, PL/SQL Oracle);  
--Prática com Arquitetura MVC, Arquitetura Hexagonal e Arquitetura Limpa;  
--Desenvolvimento sistemas desktop utilizando tecnologia Windows Forms .NET;  
--Melhora no fluxo de negocio de atividades comerciais e gestão utilizando C# .NET;  
--Realização raspagem de dados utilizando BS4 e ReGex;  
--Experiencia com Windows Server e Active Directory;  
--Experiencia com Linux;  
--Experiência construindo sistemas para a empresa Iskisita Atacado;   
+IDIOMAS
+Inglês: Intermediário (B1)
+
+E-mail:yago.gomes.silva.ygs@gmail.com
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h3 align="center">STATISTICS / ESTATÍSTICAS</h3>
